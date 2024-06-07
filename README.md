@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=heypiyush112&show_icons=true&theme=chartreuse-dark" alt="Piyush's GitHub stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heypiyush112&&theme=tokyonight" alt="piyush-112" />
+</div>
+
 <!--
 **heypiyush112/heypiyush112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
